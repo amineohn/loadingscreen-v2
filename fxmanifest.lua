@@ -19,5 +19,7 @@ server_script "server/**/*"
 
 files {
   'web/build/index.html',
+  'web/src/images/*',
+  'web/src/music/*',
   'web/build/**/*'
 }
